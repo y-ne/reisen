@@ -4,7 +4,9 @@ I've always had my eye on flagships, especially Samsung's. It's not uncommon to 
 
 ## Guidelines
 
-I assume you have already rooted your device(s), since we'll be modifying some system files.
+I assume you've already rooted your device(s) — we'll be modifying system-level files.
+
+**Note:** Magisk only. That's the root method I use, so scripts are written + tested against Magisk's hooks. KernelSU / APatch users may need to adapt paths.
 
 ## Tree
 
