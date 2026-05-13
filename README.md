@@ -18,6 +18,7 @@ I assume you have already rooted your device(s), since we'll be modifying some s
 Explain :
 
 -- `post-fs-data.d` runs before Android framework start
+
 -- `service.d` runs after boot complete, system services up
 
 Notes :
